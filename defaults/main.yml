@@ -2,5 +2,3 @@ lighthouse_download_url: "https://github.com/VKCOM/lighthouse/archive/refs/heads
 lighthouse_root: "/usr/share/nginx/html/lighthouse"
 nginx_site_path: "/etc/nginx/sites-available/lighthouse"
 nginx_site_link: "/etc/nginx/sites-enabled/lighthouse"
----
-# defaults file for lighthouse-role
